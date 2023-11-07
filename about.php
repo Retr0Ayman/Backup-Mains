@@ -16,7 +16,19 @@
       </head>
       <body>
       <?php include '_header.php';?>
-      
+
+      Bean and Brew are one of the first
+companies in the UK to use fair-trade coffee
+and all organic milk for their products. Each
+drink is made exactly to your specifications,
+for a personal service. We also offer their
+trademarked flavoured coffees, breakfast
+items such as porridge, small sweet treats,
+and pressed sandwiches. Recently we have also
+added frappes and fruit smoothies in addition
+to seasonal treats such as the pumpkin spiced
+latte (for Halloween) and various assorted
+baked goods.
 
 
 <?php include '_footer.php';?>

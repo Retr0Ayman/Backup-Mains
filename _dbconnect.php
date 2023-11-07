@@ -1,5 +1,5 @@
 <?php
-// Script to connect to the databse via 
+// Script to connect to the database via 
 $servername = "localhost";
 $username = "root";
 $password = "";
